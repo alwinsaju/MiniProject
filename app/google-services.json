@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280856089814",
+    "project_id": "symbi-chat-86f32",
+    "storage_bucket": "symbi-chat-86f32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280856089814:android:15ba55dbaf6860ee3a6577",
+        "android_client_info": {
+          "package_name": "com.miniproject.symbi_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280856089814-qs2ro3l3jn8i3vd9cc0fuk8jrikrq4dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMLYJOtApVIPScWBaERb9O5qk7iy2hVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280856089814-qs2ro3l3jn8i3vd9cc0fuk8jrikrq4dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
